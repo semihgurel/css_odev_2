@@ -1,0 +1,68 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+.google-img {
+  justify-content: center;
+  display: flex;
+}
+main {
+  margin-left: 8%;
+  margin-right: 8%;
+}
+.search {
+  text-align: center;
+  background-color: #eeeeee;
+  border: 1px solid white;
+}
+.search p {
+  padding: 0;
+  margin: 0;
+}
+.search input {
+  width: 333px;
+}
+.info {
+  justify-content: center;
+  display: flex;
+  margin-bottom: 0;
+  padding-bottom: 0;
+  height: 81px;
+}
+.spcl-searches {
+  background-color: #7ee5da;
+  width: 40%;
+  border: 1px solid white;
+  text-align: center;
+}
+
+.spcl-searches ul {
+  list-style-type: none;
+}
+
+.help {
+  background-color: #70ccc2;
+  width: 20%;
+  border: 1px solid white;
+  text-align: center;
+  font-size: smaller;
+}
+
+.help ul {
+  list-style-type: none;
+}
+
+.google-update {
+  background-color: #62b3aa;
+  width: 60%;
+  border: 1px solid white;
+  text-align: center;
+}
+
+.google-update p {
+  margin: 0;
+}
+
+footer {
+  text-align: center;
+}
