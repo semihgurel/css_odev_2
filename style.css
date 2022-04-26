@@ -62,6 +62,9 @@ main {
 .google-update p {
   margin: 0;
 }
+::placeholder {
+  color: black;
+}
 
 footer {
   text-align: center;
